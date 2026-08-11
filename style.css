@@ -83,12 +83,13 @@ nav a:hover {
   padding: 50px 20px;
 
   background:
-    linear-gradient(
-      rgba(18,60,105,0.78),
-      rgba(18,60,105,0.78)
-    ),
-    url("https://images.unsplash.com/photo-1562774053-701939374585")
-    center/cover;
+  linear-gradient(
+    rgba(18,60,105,0.45),
+    rgba(18,60,105,0.45)
+  ),
+  url("school.jpg")
+  center/cover;
+    
 
   color: white;
 }
